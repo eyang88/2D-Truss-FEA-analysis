@@ -1,0 +1,3 @@
+(Number of elements) (Number of Nodes) 0 0     0      0       0     0          0     0    0 0
+(Element Number) (Node i) (Node j) (Length) (Young's Modulus) (Angle from horizontal) (Cross-sectional Area) (Moment of Inertia) (Consistent Traction force x-component) (Consistent Traction Force y-component) (Nodal Force y-component) (height)
+ 

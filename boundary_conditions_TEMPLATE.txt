@@ -1,0 +1,14 @@
+(Number of Boundary Conditions) 0 0
+Node BC_dof BC_magnitude
+.      .        .
+.      .        .
+.      .        .
+
+
+
+BC_dof:
+1 = impose for u (x-direction)
+2 = impose for v (y-direction)
+3 = impose for theta (angle)
+
+BC_magnitude: Magnitude of boundary condition (usually is 0 for truss)
